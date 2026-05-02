@@ -1,2 +1,2 @@
-# MISTRI-Max
+# mistrimax
 application d'organisation d'agents
