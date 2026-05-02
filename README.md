@@ -1,2 +1,2 @@
-# MISTRI-Max--LV-V2
+# MISTRI-Max
 application d'organisation d'agents
